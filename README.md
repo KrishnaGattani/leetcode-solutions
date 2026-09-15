@@ -20,4 +20,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
