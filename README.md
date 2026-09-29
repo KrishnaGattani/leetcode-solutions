@@ -7,10 +7,12 @@
 | [0001-two-sum](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0001-two-sum) |
+| [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -37,4 +39,12 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0022-generate-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
