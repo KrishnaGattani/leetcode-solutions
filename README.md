@@ -10,11 +10,13 @@
 | [0321-create-maximum-number](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0001-two-sum) |
 | [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0621-task-scheduler](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Math
 |  |
 | ------- |
@@ -56,12 +58,19 @@
 |  |
 | ------- |
 | [0321-create-maximum-number](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0321-create-maximum-number) |
+| [0621-task-scheduler](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Sorting
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0621-task-scheduler) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0621-task-scheduler](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
