@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0321-create-maximum-number](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Hash Table
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0321-create-maximum-number](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0321-create-maximum-number) |
 ## String
 |  |
 | ------- |
@@ -42,9 +44,15 @@
 ## Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0321-create-maximum-number](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0321-create-maximum-number) |
 | [0496-next-greater-element-i](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+## Greedy
+|  |
+| ------- |
+| [0321-create-maximum-number](https://github.com/KrishnaGattani/leetcode-solutions/tree/master/0321-create-maximum-number) |
 <!---LeetCode Topics End-->
