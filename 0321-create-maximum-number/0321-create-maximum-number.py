@@ -1,39 +1,45 @@
 class Solution:
     def maxNumber(self, nums1, nums2, k):
 
-        def getMax(nums, k):
-            stack = []
+        def maximum(nums, k):
+            result = []
             remove = len(nums) - k
 
             for num in nums:
-                while stack and remove > 0 and stack[-1] < num:
-                    stack.pop()
+                while result and remove > 0 and result[-1] < num:
+                    result.pop()
                     remove -= 1
 
-                stack.append(num)
+                result.append(num)
 
-            return stack[:k]
+            return result[:k]
 
-        def merge(a, b):
+        def combine(a, b):
             result = []
 
-            while a or b:
+            while len(a) > 0 or len(b) > 0:
+
                 if a > b:
-                    result.append(a.pop(0))
+                    result.append(a[0])
+                    a.pop(0)
                 else:
-                    result.append(b.pop(0))
+                    result.append(b[0])
+                    b.pop(0)
 
             return result
 
         answer = []
 
-        for i in range(max(0, k - len(nums2)), min(k, len(nums1)) + 1):
-            a = getMax(nums1, i)
-            b = getMax(nums2, k - i)
+        for i in range(k + 1):
 
-            current = merge(a[:], b[:])
+            if i <= len(nums1) and k - i <= len(nums2):
 
-            if current > answer:
-                answer = current
+                a = maximum(nums1, i)
+                b = maximum(nums2, k - i)
+
+                current = combine(a, b)
+
+                if current > answer:
+                    answer = current
 
         return answer
